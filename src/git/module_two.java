@@ -1,11 +1,10 @@
 package git;
 
-public class module_one {
+public class module_two {
 
 	public static void main(String[] args) {
 
-		int a = 0;
-		int c = 10;
+		String name = "Harish";
 		
 	}
 
